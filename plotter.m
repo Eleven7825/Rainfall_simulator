@@ -13,6 +13,9 @@
 % Some constants
 Fr = 20;        % Sample Rate of the video
 
+% make the folder for the videos
+if ~exist('videos','dir'); mkdir('videos'); end
+
 fprintf('Simulate the process...')
 Simulator
 fprintf('\nList of variables:\n')
