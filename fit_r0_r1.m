@@ -11,6 +11,10 @@
 
 exp2data
 
+
+% make the folder for the figures
+if ~exist('figures','dir'); mkdir('figures'); end
+
 % Fit: 'Fitting curve'.
 [xData, yData] = prepareCurveData( r0, r1 );
 
