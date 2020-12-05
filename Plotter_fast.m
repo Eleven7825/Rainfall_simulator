@@ -31,6 +31,9 @@ fprintf('Fram rate of the video Fr = %d\n',Fr)
 disp('You can change variables in workspace!')
 disp('done!')
 
+% make the folder for the videos
+if ~exist('videos','dir'); mkdir('videos'); end
+
 fprintf('Sampling the data...')
 if Fr<1/dt
     N_raindata = {};
