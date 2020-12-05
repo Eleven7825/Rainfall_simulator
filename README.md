@@ -8,3 +8,5 @@ Shiyi Chen, Mingming Chen, Liancheng Gong, Xiaoyan Tang, Shuhan Yuan
 For videos with hollow rain_drop representing the raindrops, run `plotter_fast.m`.
 
 For more beautiful rain_drop, run `plotter.m`.
+
+You can change parameters in workspace to simulate process with different parameters.
