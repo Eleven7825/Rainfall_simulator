@@ -10,3 +10,7 @@ For videos with hollow rain_drop representing the raindrops, run `plotter_fast.m
 For more beautiful rain_drop, run `plotter.m`.
 
 You can change parameters in workspace to simulate process with different parameters.
+
+## Simulation reusult
+For videos:
+http://eleven.nyushers.org/intro-to-math-modeling-final-project/
