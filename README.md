@@ -14,3 +14,6 @@ You can change parameters in workspace to simulate process with different parame
 ## Simulation reusult
 For videos:
 http://eleven.nyushers.org/intro-to-math-modeling-final-project/
+
+For the report:
+http://eleven.nyushers.org/A_Model_to_Predict_the_Maximum_Car_Speed_in_the_Rain.pdf
